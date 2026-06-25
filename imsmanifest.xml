@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="AI_ACADEMY_PROMPTING_SCORM_12"
+          version="1.0"
+          xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+          xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                              http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+  </metadata>
+  <organizations default="ORG_AI_ACADEMY">
+    <organization identifier="ORG_AI_ACADEMY">
+      <title>AI Academy — Curso de I.A. &amp; Prompting</title>
+      <item identifier="ITEM_MODULO_1" identifierref="RES_MODULO_1">
+        <title>Módulo 1 — Introdução à Inteligência Artificial</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="RES_MODULO_1"
+              type="webcontent"
+              adlcp:scormtype="sco"
+              href="index.html">
+      <file href="index.html" />
+      <file href="Introdução à Inteligência Artificial.mp4" />
+    </resource>
+  </resources>
+</manifest>

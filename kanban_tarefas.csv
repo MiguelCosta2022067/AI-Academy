@@ -1,0 +1,10 @@
+Coluna,Tarefa,Descrição
+Concluído,Escolher plataforma,"Decidir entre Moodle, Canvas, Wix/website próprio ou SCORM."
+Concluído,Preparar ficheiros,"Confirmar HTML, vídeo MP4, recursos PDF e links."
+Concluído,Criar pacote SCORM,Garantir imsmanifest.xml na raiz do ZIP e index.html como entrada.
+Concluído,Definir estrutura do curso,Curso > Módulo 1 > Aula 1 > Recursos > Quiz.
+Concluído,Importar na plataforma,Adicionar atividade SCORM ou incorporar HTML/iFrame.
+Concluído,Testar navegação,"Abrir vídeo, abas, recursos, notas, quiz e botões."
+Concluído,Testar tracking,"Confirmar conclusão, pontuação do quiz e progresso no LMS."
+Concluído,Definir KPIs,"Taxa de conclusão, nota média, tempo de visualização, tentativas do quiz e abandono."
+Concluído,Documentar evidências,"Capturas de ecrã da plataforma, Kanban, testes e métricas."
